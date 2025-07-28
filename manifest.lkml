@@ -13,5 +13,5 @@ constant: VIS_ID {
 visualization: {
   id: "@{VIS_ID}"
   url: "https://marketplace-api.looker.com/viz-dist/liquid_fill_gauge.js"
-  label: "@{VIS_LABEL}"
+  label: "@{VIS_LABEL}-liquid test"
 }
